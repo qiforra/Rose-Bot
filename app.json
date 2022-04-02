@@ -1,7 +1,7 @@
 {
-  "name": "Kochubot",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
-  "logo": "https://telegra.ph/file/1925c7a2f601539ccde7a.png",
+  "name": "AnwarRaudhah_bot",
+  "description": "Bot untuk manajemen grup",
+  "logo": "https://telegra.ph/file/7cfa6d9681cbdb47cf29a.png",
   "keywords": [
     "telegram",
     "best",
@@ -12,7 +12,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jithumon/tgbot",
+  "repository": "https://github.com/qiforra/Rose-Bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
